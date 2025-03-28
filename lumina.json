@@ -1,0 +1,5 @@
+{
+  "clientDllUrl": "https://raw.githubusercontent.com/a2x/cs2-dumper/refs/heads/main/output/client_dll.json",
+  "offsetsUrl": "https://raw.githubusercontent.com/a2x/cs2-dumper/refs/heads/main/output/offsets.json",
+  "buttonsUrl": "https://raw.githubusercontent.com/a2x/cs2-dumper/refs/heads/main/output/buttons.json"
+}
