@@ -1,5 +1,5 @@
 {
-  "clientDllUrl": "https://raw.githubusercontent.com/a2x/cs2-dumper/refs/heads/main/output/client_dll.hpp",
-  "offsetsUrl": "https://raw.githubusercontent.com/a2x/cs2-dumper/refs/heads/main/output/offsets.hpp",
-  "buttonsUrl": "https://raw.githubusercontent.com/a2x/cs2-dumper/refs/heads/main/output/buttons.hpp"
+  "clientDllUrl": "https://raw.githubusercontent.com/IkanaideCYKAZ/cs2-dumper/refs/heads/main/output/client_dll.hpp",
+  "offsetsUrl": "https://raw.githubusercontent.com/IkanaideCYKAZ/cs2-dumper/refs/heads/main/output/offsets.hpp",
+  "buttonsUrl": "https://raw.githubusercontent.com/IkanaideCYKAZ/cs2-dumper/refs/heads/main/output/buttons.hpp"
 }
